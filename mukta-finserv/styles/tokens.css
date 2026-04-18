@@ -1,0 +1,64 @@
+/*
+ * Mukta Finserv — Design Tokens
+ * Source of truth for brand colours, type scale, and spacing.
+ * Consumed by globals.css via @theme and by components via var(--*) references.
+ */
+
+:root {
+  /* === Core Surfaces === */
+  --color-bg-primary: #0a0a0a;
+  --color-bg-secondary: #141414;
+  --color-bg-tertiary: #1f1b16;
+  --color-surface-light: #ffffff;
+  --color-surface-cream: #faf7f0;
+
+  /* === Gold Scale === */
+  --color-gold-50: #fff8e1;
+  --color-gold-100: #f5e6b8;
+  --color-gold-300: #e5c97a;
+  --color-gold-500: #d4af37;
+  --color-gold-600: #b8941f;
+  --color-gold-700: #8c6e14;
+
+  /* === Type Colours === */
+  --color-text-on-dark: #f5f1e8;
+  --color-text-on-dark-muted: #a8a29e;
+  --color-text-on-light: #1a1a1a;
+  --color-text-on-light-muted: #4a4a4a;
+
+  /* === Dividers === */
+  --color-divider-dark: rgba(212, 175, 55, 0.2);
+  --color-divider-light: rgba(10, 10, 10, 0.1);
+
+  /* === Type Scale (desktop) === */
+  --fs-h1: clamp(3rem, 5vw + 1rem, 5.5rem);
+  --fs-h2: clamp(2.25rem, 3vw + 1rem, 3.5rem);
+  --fs-h3: 2rem;
+  --fs-h4: 1.375rem;
+  --fs-body-l: 1.125rem;
+  --fs-body-m: 1rem;
+  --fs-caption: 0.8125rem;
+  --fs-stat: clamp(4rem, 6vw + 1rem, 7.5rem);
+
+  /* === Layout === */
+  --content-max: 1280px;
+  --content-gutter: 2rem;
+  --section-pad-y: 7.5rem;
+
+  /* === Motion === */
+  --ease-royal: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@media (max-width: 900px) {
+  :root {
+    --section-pad-y: 4rem;
+    --content-gutter: 1.25rem;
+  }
+}
+
+@media (max-width: 600px) {
+  :root {
+    --section-pad-y: 3rem;
+    --content-gutter: 1rem;
+  }
+}
