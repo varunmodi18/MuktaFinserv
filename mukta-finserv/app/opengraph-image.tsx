@@ -108,7 +108,7 @@ export default async function Image() {
           }}
         >
           <span>Mumbai · Pune · Bengaluru</span>
-          <span>muktafinserv.in</span>
+          <span>aparigrahaenterprises.in</span>
         </div>
       </div>
     ),

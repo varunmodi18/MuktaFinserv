@@ -1,19 +1,19 @@
 /**
- * Mukta Finserv — central site configuration.
+ * Aparigraha Enterprises — central site configuration.
  * Edit brand metadata, nav, services list, regulatory text, and contact info here.
  * Anything that surfaces in more than one component should live in this file.
  */
 
 export const siteConfig = {
-  name: "Mukta Finserv LLP",
-  shortName: "Mukta Finserv",
+  name: "Aparigraha Enterprises",
+  shortName: "Aparigraha Enterprises",
   tagline: "Wealth, Refined.",
   description:
     "Premium wealth management, mutual-fund distribution, and financial advisory for HNIs, professionals, and NRIs.",
-  url: "https://muktafinserv.in",
+  url: "https://aparigrahaenterprises.in",
 
   contact: {
-    email: "info@muktafinserv.in",
+    email: "info@aparigrahaenterprises.in",
     phone: "+91 00000 00000",
     phoneHref: "tel:+910000000000",
     whatsapp: "+91 00000 00000",
@@ -26,10 +26,10 @@ export const siteConfig = {
   },
 
   social: {
-    linkedin: "https://www.linkedin.com/company/mukta-finserv",
-    instagram: "https://www.instagram.com/muktafinserv",
-    youtube: "https://www.youtube.com/@muktafinserv",
-    twitter: "https://twitter.com/muktafinserv",
+    linkedin: "https://www.linkedin.com/company/aparigraha-enterprises",
+    instagram: "https://www.instagram.com/aparigrahaenterprises",
+    youtube: "https://www.youtube.com/@aparigrahaenterprises",
+    twitter: "https://twitter.com/aparigrahaenterprises",
   },
 
   regulatory: {
@@ -37,7 +37,7 @@ export const siteConfig = {
     arnValidThrough: "DD-MM-YYYY",
     cinNumber: "AAA-0000",
     riskWarning:
-      "Mutual Fund investments are subject to market risks. Read all scheme related documents carefully before investing. Past performance is not indicative of future results. Mukta Finserv LLP is an AMFI-registered Mutual Fund Distributor (ARN: XXXXXX, valid through DD-MM-YYYY). We deal in Regular Plans only and earn trailing commissions on client investments. Commission disclosure is provided to clients at the time of investment.",
+      "Mutual Fund investments are subject to market risks. Read all scheme related documents carefully before investing. Past performance is not indicative of future results. Aparigraha Enterprises is an AMFI-registered Mutual Fund Distributor (ARN: XXXXXX, valid through DD-MM-YYYY). We deal in Regular Plans only and earn trailing commissions on client investments. Commission disclosure is provided to clients at the time of investment.",
   },
 
   primaryNav: [

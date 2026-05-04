@@ -10,13 +10,13 @@ export function BrandStory() {
       <div className="grid grid-cols-1 gap-16 lg:grid-cols-12 lg:gap-20">
         {/* Left: editorial text */}
         <div className="lg:col-span-7">
-          <EyebrowLabel>The Mukta Approach</EyebrowLabel>
+          <EyebrowLabel>The Aparigraha Approach</EyebrowLabel>
           <h2 className="font-display mt-6 text-4xl leading-[1.1] tracking-tight text-ink md:text-5xl">
             Built for the families who measure success in decades.
           </h2>
           <div className="mt-8 max-w-xl">
             <DropCap>
-              Mukta Finserv was founded on the conviction that wealth deserves
+              Aparigraha Enterprises was founded on the conviction that wealth deserves
               the quiet rigour of long-term thinking. We partner with discerning
               families to build portfolios that mature across generations, not
               quarters. Our practice is private, our process is measured, and

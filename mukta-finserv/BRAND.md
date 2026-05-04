@@ -1,6 +1,6 @@
 # Brand & Design System
 
-The Mukta Finserv visual language is **black + gold + warm cream**, set
+The Aparigraha Enterprises visual language is **black + gold + warm cream**, set
 in serif type. It's inspired by sapientwealth.com, eticawealth.com,
 enrichwise.com, sanctumwealth.com, and equiruswealth.com — firms that
 feel discreet rather than promotional.

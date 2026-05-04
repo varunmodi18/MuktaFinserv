@@ -7,7 +7,7 @@ import { buildMetadata } from "@/lib/seo";
 export const metadata: Metadata = buildMetadata({
   title: "Contact",
   description:
-    "Schedule a consultation with a Mukta Finserv partner. A short conversation, no pitch — just listening.",
+    "Schedule a consultation with an Aparigraha Enterprises partner. A short conversation, no pitch — just listening.",
   path: "/contact",
 });
 

@@ -12,7 +12,7 @@ export type Testimonial = {
 export const testimonials: Testimonial[] = [
   {
     quote:
-      "What sets Mukta apart isn't a single fund recommendation — it's the discipline of returning every quarter with the same rigour. They have made our financial life quieter, and that is worth more than any one return number.",
+      "What sets Aparigraha apart isn't a single fund recommendation — it's the discipline of returning every quarter with the same rigour. They have made our financial life quieter, and that is worth more than any one return number.",
     name: "Anonymised Client",
     designation: "Founder, Mid-cap manufacturing firm",
     location: "Mumbai",

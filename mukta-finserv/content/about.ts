@@ -15,7 +15,7 @@ export const foundingTimeline: TimelineEvent[] = [
   {
     year: "201X",
     title: "First Families",
-    body: "Mukta Finserv is registered and onboards its first twenty-five families — referred, every one, by people who wanted their own advisor to take them seriously.",
+    body: "Aparigraha Enterprises is registered and onboards its first twenty-five families — referred, every one, by people who wanted their own advisor to take them seriously.",
   },
   {
     year: "201X",

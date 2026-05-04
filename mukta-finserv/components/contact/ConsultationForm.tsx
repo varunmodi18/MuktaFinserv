@@ -541,7 +541,7 @@ function Consent({
           ) : null}
         </span>
         <span>
-          I consent to being contacted by Mukta Finserv LLP about my enquiry,
+          I consent to being contacted by Aparigraha Enterprises about my enquiry,
           and have read the{" "}
           <a
             href="/legal/privacy"
@@ -575,7 +575,7 @@ function ThankYou({ name }: { name: string }) {
       </p>
       <div className="mt-8 h-px w-16 bg-gold-500" />
       <p className="mt-8 font-body text-sm text-ink-muted">
-        — The team at Mukta Finserv
+        — The team at Aparigraha Enterprises
       </p>
     </div>
   );

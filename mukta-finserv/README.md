@@ -1,6 +1,6 @@
-# Mukta Finserv LLP — Website
+# Aparigraha Enterprises — Website
 
-Premium wealth-management marketing site for Mukta Finserv LLP.
+Premium wealth-management marketing site for Aparigraha Enterprises.
 Next.js 16 (App Router) · React 19 · Tailwind v4 · TypeScript.
 
 ---
@@ -130,7 +130,7 @@ are defined in `styles/tokens.css` and surfaced to Tailwind via
 2. Import the repo into Vercel. Framework presets auto-detect Next.js 16.
 3. Add environment variables from `.env.example`.
 4. Deploy. Vercel will preview every PR automatically.
-5. Add the custom domain `muktafinserv.in` in *Project → Settings → Domains*
+5. Add the custom domain `aparigrahaenterprises.in` in *Project → Settings → Domains*
    and follow the DNS instructions.
 
 ### Anywhere else
@@ -162,4 +162,4 @@ Node 20+ and supports the Next.js adapter works — AWS Amplify, Netlify
 
 ## License
 
-Proprietary. © Mukta Finserv LLP.
+Proprietary. © Aparigraha Enterprises.

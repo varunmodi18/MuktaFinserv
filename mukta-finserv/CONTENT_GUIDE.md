@@ -18,14 +18,14 @@ header, footer, or regulatory strip.
 
 ```ts
 export const siteConfig = {
-  name: "Mukta Finserv LLP",
-  shortName: "Mukta Finserv",
+  name: "Aparigraha Enterprises",
+  shortName: "Aparigraha Enterprises",
   tagline: "Wealth, Refined.",
   description: "...",
-  url: "https://muktafinserv.in",
+  url: "https://aparigrahaenterprises.in",
 
   contact: {
-    email: "info@muktafinserv.in",
+    email: "info@aparigrahaenterprises.in",
     phone: "+91 00000 00000",
     phoneHref: "tel:+910000000000",
     whatsapp: "+91 00000 00000",

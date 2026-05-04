@@ -1,5 +1,5 @@
 /**
- * Pure financial calculators for Mukta Finserv.
+ * Pure financial calculators for Aparigraha Enterprises.
  * All functions are side-effect-free: inputs → outputs.
  * Money values are in ₹ (INR). Rates are in percent (e.g., 12 = 12% p.a.).
  */

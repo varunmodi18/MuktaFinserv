@@ -3,7 +3,7 @@ import type { Post } from "@/lib/insights";
 const post: Post = {
   slug: "why-we-refuse-some-products",
   title: "Why We Refuse Some Products — And What That Means for Your Portfolio",
-  dek: "A short note on the products that never make it into a Mukta Finserv recommendation, and the reasoning behind the refusals.",
+  dek: "A short note on the products that never make it into an Aparigraha Enterprises recommendation, and the reasoning behind the refusals.",
   category: "Philosophy",
   publishedAt: "2024-03-04",
   readMinutes: 5,

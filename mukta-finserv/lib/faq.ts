@@ -1,5 +1,5 @@
 export const faqCategories = [
-  "About Mukta Finserv",
+  "About Aparigraha Enterprises",
   "Investing",
   "Taxation",
   "NRI",
@@ -17,31 +17,31 @@ export type FaqItem = {
 };
 
 export const faqs: FaqItem[] = [
-  // About Mukta Finserv
+  // About Aparigraha Enterprises
   {
     id: "who-we-serve",
-    category: "About Mukta Finserv",
-    question: "Who does Mukta Finserv typically work with?",
+    category: "About Aparigraha Enterprises",
+    question: "Who does Aparigraha Enterprises typically work with?",
     answer:
       "We work with resident Indian families, professionals, and NRIs with meaningful wealth-management needs — typically where asset allocation, tax efficiency, and succession are all in play. We are partner-led and intentionally small; not every relationship is a fit, and we will tell you so if it is not.",
   },
   {
     id: "minimum-size",
-    category: "About Mukta Finserv",
+    category: "About Aparigraha Enterprises",
     question: "Is there a minimum investment size to become a client?",
     answer:
       "We do not publish a hard minimum, because the right fit depends on complexity as much as size. As a practical matter, most of our relationships are with families for whom the planning work justifies an ongoing partner relationship. We are happy to have a short initial conversation to see whether we are the right firm for you.",
   },
   {
     id: "fee-structure",
-    category: "About Mukta Finserv",
-    question: "How is Mukta Finserv compensated?",
+    category: "About Aparigraha Enterprises",
+    question: "How is Aparigraha Enterprises compensated?",
     answer:
       "We are an AMFI-registered Mutual Fund Distributor and earn trail commissions on regular-plan mutual fund investments. The commissions we receive are disclosed in writing at the start of every relationship and reviewed annually. For PMS/AIF mandates, fees are as per the product's disclosure document. We do not charge a separate advisory fee.",
   },
   {
     id: "regular-vs-direct",
-    category: "About Mukta Finserv",
+    category: "About Aparigraha Enterprises",
     question: "Do you offer direct-plan mutual funds?",
     answer:
       "No. We deal in regular plans only. We believe the service we provide — plan construction, behavioural ballast, review cadence, operational and tax hygiene, estate coordination — is what justifies the trail commission. If you prefer to execute directly, direct plans through any AMC platform are an excellent self-managed option.",
@@ -104,7 +104,7 @@ export const faqs: FaqItem[] = [
   {
     id: "nri-services",
     category: "NRI",
-    question: "Can NRIs invest in Indian mutual funds through Mukta Finserv?",
+    question: "Can NRIs invest in Indian mutual funds through Aparigraha Enterprises?",
     answer:
       "Yes, subject to the regulatory framework applicable to your country of residence. Most NRIs from permitted jurisdictions invest via NRE or NRO accounts. US and Canada-resident investors face additional restrictions from many AMCs; we will tell you clearly what is and isn't available to you.",
   },

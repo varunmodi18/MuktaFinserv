@@ -12,7 +12,7 @@ import { buildMetadata } from "@/lib/seo";
 export const metadata: Metadata = buildMetadata({
   title: "About",
   description:
-    "Mukta Finserv LLP — a partner-led, referral-built private wealth practice with a long memory and a short list of conflicts.",
+    "Aparigraha Enterprises — a partner-led, referral-built private wealth practice with a long memory and a short list of conflicts.",
   path: "/about",
 });
 
@@ -30,7 +30,7 @@ export default function AboutPage() {
           }}
         />
         <div className="mx-auto w-full max-w-(--content-max) px-(--content-gutter) pt-28 pb-20 md:pt-36 md:pb-28">
-          <EyebrowLabel>About Mukta Finserv</EyebrowLabel>
+          <EyebrowLabel>About Aparigraha Enterprises</EyebrowLabel>
           <h1 className="font-display mt-6 max-w-4xl text-[clamp(2.75rem,5vw+1rem,5.5rem)] leading-[1.02] tracking-tight text-ink">
             Our Story
           </h1>
@@ -38,7 +38,7 @@ export default function AboutPage() {
           <div className="mt-12 grid grid-cols-1 gap-12 lg:grid-cols-12">
             <div className="lg:col-span-7">
               <DropCap>
-                Mukta Finserv was founded on a simple, unfashionable
+                Aparigraha Enterprises was founded on a simple, unfashionable
                 conviction — that families deserve a practice, not a sales
                 desk, and that good advice is paid for on time, not on product.
                 We are a small firm by design. Relationships are partner-led,

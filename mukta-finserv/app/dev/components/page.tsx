@@ -47,7 +47,7 @@ export default function ComponentsDevPage() {
 
       <Section title="DropCap">
         <DropCap>
-          Mukta Finserv was founded on the conviction that wealth deserves the
+          Aparigraha Enterprises was founded on the conviction that wealth deserves the
           quiet rigour of long-term thinking. We partner with discerning
           families to build portfolios that mature across generations, not
           quarters. Our practice is private, our process is measured, and our
