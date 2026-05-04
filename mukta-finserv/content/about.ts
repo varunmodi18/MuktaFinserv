@@ -34,7 +34,7 @@ export const foundingTimeline: TimelineEvent[] = [
   },
   {
     year: "Today",
-    title: "Wealth, Refined.",
+    title: "Trust. Commitment. Capabilities.",
     body: "A small practice with a long memory — still partner-led, still referral-driven, still treating every rupee as if it were the last one.",
   },
 ];

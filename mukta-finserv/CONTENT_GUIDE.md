@@ -20,7 +20,7 @@ header, footer, or regulatory strip.
 export const siteConfig = {
   name: "Aparigraha Enterprises",
   shortName: "Aparigraha Enterprises",
-  tagline: "Wealth, Refined.",
+  tagline: "Trust. Commitment. Capabilities.",
   description: "...",
   url: "https://aparigrahaenterprises.in",
 

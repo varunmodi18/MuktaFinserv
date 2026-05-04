@@ -39,7 +39,7 @@ export function BrandStory() {
             <div className="absolute inset-0 flex flex-col items-center justify-center gap-8 px-8 text-center">
               <Filigree size={120} />
               <p className="font-display text-3xl leading-tight text-ink md:text-4xl">
-                &ldquo;Wealth, refined.&rdquo;
+                &ldquo;Trust. Commitment. Capabilities.&rdquo;
               </p>
               <span className="font-body text-[0.7rem] tracking-[0.25em] uppercase text-gold-300">
                 — House Motto

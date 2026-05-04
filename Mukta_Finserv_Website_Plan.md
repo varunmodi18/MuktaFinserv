@@ -1,6 +1,6 @@
-# Mukta Finserv LLP — Website Build Plan for Claude Code
+# Aparigraha Enterprises — Website Build Plan for Claude Code
 
-> **Purpose:** A complete, step-by-step execution plan for Claude Code to build a production-ready, premium wealth-management website for **Mukta Finserv LLP**.
+> **Purpose:** A complete, step-by-step execution plan for Claude Code to build a production-ready, premium wealth-management website for **Aparigraha Enterprises**.
 > **Inspiration:** eticawealth.com, enrichwise.com, sapientwealth.in, sanctumwealth.com, equiruswealth.com.
 > **Visual identity:** Black + Gold + White, with serif typography and a subtle royal/luxury feel.
 
@@ -12,9 +12,9 @@
 
 | Attribute | Value |
 |---|---|
-| Brand Name | Mukta Finserv LLP |
+| Brand Name | Aparigraha Enterprises |
 | Industry | Wealth Management / Mutual Fund Distribution / Financial Advisory |
-| Tagline (placeholder) | *"Wealth, Refined."* (replace with final tagline) |
+| Tagline | *"Trust. Commitment. Capabilities."* |
 | Brand Personality | Trustworthy, premium, royal, restrained, scholarly |
 | Target Audience | HNIs, MNIs, salaried professionals, business owners, NRIs, retirees |
 | Primary CTA | "Schedule a Consultation" / "Start Your Investment Journey" |
@@ -22,7 +22,7 @@
 
 ### 1.2 Design Philosophy
 
-The five reference sites converge on a few patterns Mukta Finserv must honour:
+The five reference sites converge on a few patterns Aparigraha Enterprises must honour:
 
 1. **Trust signals first** — AUM, years of experience, client count, country count are displayed prominently.
 2. **Service-grid as the primary navigation** — services are illustrated with iconography and linked individually.
@@ -31,7 +31,7 @@ The five reference sites converge on a few patterns Mukta Finserv must honour:
 5. **Educational resources** — calculators, blogs, FAQs lower the barrier and build authority.
 6. **Strict regulatory footer** — AMFI ARN, SEBI disclosures, risk warnings.
 
-Mukta will differentiate through a **deep black + gold** palette (most peers use blue/green) and **serif-driven typography** (most peers use sans-serif), giving an editorial, "private bank" feel rather than a "fintech app" feel.
+Aparigraha will differentiate through a **deep black + gold** palette (most peers use blue/green) and **serif-driven typography** (most peers use sans-serif), giving an editorial, "private bank" feel rather than a "fintech app" feel.
 
 ---
 
@@ -160,16 +160,16 @@ Home
 
 1. **Header / Navigation**
    - Sticky, transparent over hero, solid black on scroll.
-   - Left: wordmark "Mukta Finserv" in Cormorant Garamond, gold underscore mark below.
+   - Left: wordmark "Aparigraha Enterprises" in Cormorant Garamond, gold underscore mark below.
    - Centre: nav links (About, Services, Resources, Contact).
    - Right: gold outline "Investor Login" button + filled gold "Schedule Consultation" button.
    - Mobile: hamburger → full-screen overlay menu, items in serif large type.
 
 2. **Hero Section**
    - Background: deep black with faint gold particle/noise overlay; optional video loop of a quiet, opulent setting (skyline at dusk, marble texture).
-   - Eyebrow: "MUKTA FINSERV LLP" in spaced caps, gold.
-   - H1 (serif, large): *"Wealth, Refined for Generations."* (replace with final copy)
-   - Sub-line: 1–2 sentences on what Mukta does.
+   - Eyebrow: "APARIGRAHA ENTERPRISES" in spaced caps, gold.
+   - H1 (serif, large): *"Trust. Commitment. Capabilities."* 
+   - Sub-line: 1–2 sentences on what Aparigraha does.
    - Two CTAs: gold filled "Begin Your Journey" + ghost "Explore Services".
    - Bottom strip: small AMFI / SEBI registration badges in muted gold.
 
@@ -179,7 +179,7 @@ Home
    - Hairline gold dividers between stats.
 
 4. **Brand Story / Mission Snippet**
-   - Two-column: left a short paragraph about Mukta's founding ethos; right a soft portrait or abstract gold motif.
+   - Two-column: left a short paragraph about Aparigraha's founding ethos; right a soft portrait or abstract gold motif.
    - Drop-cap on the paragraph.
 
 5. **Services Grid**
@@ -303,10 +303,10 @@ Sections:
 | Charts | **Recharts** | Calculator outputs. |
 | Forms | **react-hook-form** + **zod** | Validation for contact form. |
 | CMS (optional) | **Sanity** *or* **Contentlayer** (MDX) | Blog and team content edit-friendly. Start with MDX; upgrade to Sanity if non-technical editors will manage content. |
-| Email backend | **Resend** *or* **EmailJS** | Send contact-form submissions to `info@muktafinserv.in`. |
+| Email backend | **Resend** *or* **EmailJS** | Send contact-form submissions to `info@aparigrahaenterprises.in`. |
 | Analytics | **Plausible** *or* **Google Analytics 4** | Privacy-respecting metric. |
 | Deployment | **Vercel** | Zero-config for Next.js, free SSL, edge CDN. |
-| Domain | `muktafinserv.in` (purchase via GoDaddy/BigRock) | Point DNS to Vercel. |
+| Domain | `aparigrahaenterprises.in` (purchase via GoDaddy/BigRock) | Point DNS to Vercel. |
 
 ### 5.2 Project Structure
 
@@ -550,10 +550,10 @@ Claude Code should execute the following phases **in order**, committing at the 
 4. Add JSON-LD structured data: `Organization`, `WebSite`, `LocalBusiness`, `FAQPage` (on FAQ), `Article` (on blog posts).
 5. Install Plausible/GA4 script via `next/script`.
 6. Set up Vercel project, connect GitHub repo, configure environment variables.
-7. Configure custom domain `muktafinserv.in` and SSL.
+7. Configure custom domain `aparigrahaenterprises.in` and SSL.
 8. Set up form-submission email forwarding.
 
-**Deliverable:** Live production site at `https://muktafinserv.in`.
+**Deliverable:** Live production site at `https://aparigrahaenterprises.in`.
 
 ### Phase 10 — Documentation & Handover
 
@@ -605,7 +605,7 @@ These assets/content items must be supplied by the founder before service pages 
 
 The footer must include — verbatim where indicated by SEBI/AMFI guidelines:
 
-> *"Mutual Fund investments are subject to market risks. Read all scheme related documents carefully before investing. Past performance is not indicative of future results. Mukta Finserv LLP is an AMFI-registered Mutual Fund Distributor (ARN: __________, valid through __________). We deal in Regular Plans only and earn trailing commissions on client investments. Commission disclosure is provided to clients at the time of investment."*
+> *"Mutual Fund investments are subject to market risks. Read all scheme related documents carefully before investing. Past performance is not indicative of future results. Aparigraha Enterprises is an AMFI-registered Mutual Fund Distributor (ARN: __________, valid through __________). We deal in Regular Plans only and earn trailing commissions on client investments. Commission disclosure is provided to clients at the time of investment."*
 
 Plus links to: Disclaimer, Privacy Policy, Disclosure, AMFI Risk Factors, SEBI Investor Charter, Code of Conduct, SCORES.
 
@@ -654,4 +654,4 @@ This keeps you in the loop after every milestone and prevents Claude Code from d
 
 ---
 
-*End of plan. Version 1.0 — generated for Mukta Finserv LLP.*
+*End of plan. Version 1.0 — generated for Aparigraha Enterprises.*

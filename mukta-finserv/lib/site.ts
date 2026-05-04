@@ -7,7 +7,7 @@
 export const siteConfig = {
   name: "Aparigraha Enterprises",
   shortName: "Aparigraha Enterprises",
-  tagline: "Wealth, Refined.",
+  tagline: "Trust. Commitment. Capabilities.",
   description:
     "Premium wealth management, mutual-fund distribution, and financial advisory for HNIs, professionals, and NRIs.",
   url: "https://aparigrahaenterprises.in",
